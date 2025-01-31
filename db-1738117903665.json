@@ -1,0 +1,32 @@
+{
+  "utilisateurs": [
+    {
+      "nomUtilisateur": "wakeu",
+      "mailUtilisateur": "wbbjel@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 1
+    },
+    {
+      "nomUtilisateur": "wakeu",
+      "mailUtilisateur": "djoko@yahou.fr",
+      "motDePasse": "pppppp",
+      "motDePasseConfirmation": "pppppp",
+      "id": 2
+    },
+    {
+      "nomUtilisateur": "joele",
+      "mailUtilisateur": "hsbdjhsd@yhsgd.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 3
+    },
+    {
+      "nomUtilisateur": "boprel",
+      "mailUtilisateur": "JIEL@yahou.fr",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 4
+    }
+  ]
+}

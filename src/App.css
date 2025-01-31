@@ -1,0 +1,86 @@
+@import "primereact/resources/themes/lara-light-indigo/theme.css";  
+@import "primereact/resources/primereact.min.css";                  
+@import "primeicons/primeicons.css"; 
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f9f9f9;
+}
+
+.Users-page h1{
+    margin: 20px auto;
+    text-align: center;
+}
+.Users-page .User-list {
+background-color: #fff;
+padding: 12px;
+border: 1px solid #ccc;
+border-radius: 5px;
+margin: 30px;
+} 
+.Users-page .User-list table .btn{
+margin: 0 5px;
+}
+.Users-page .addNewUser{
+    text-align: right;
+    margin-bottom: 20px;
+}
+.Users-page.addNewUser .btn i{
+    padding: 0  10px;
+}
+
+.user-view h1 {
+margin: 0;
+margin-bottom: 10px;
+color: #333;
+font-size: 25px;
+font-weight: bold;
+}
+.user-view  .box{    
+padding: 30px;
+margin-bottom: 20px;
+border: 1px solid #ccc;
+border-radius: 5px;
+margin-left: 30px ;
+
+
+
+}
+
+.user-view p{
+    padding-bottom: 8px;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+    font-size:25px;
+}
+.user-view{
+    display: inline-block;
+    min-width:40vh;
+    margin-bottom: 30px;
+
+}
+.user-view p span:first-child{
+color: #ccc;
+}
+.user-view p span:last-child{
+color: #6c757d;
+font-weight: bold;
+padding-left: 12px;
+
+}
+._Add-view p{
+border-bottom: none;
+}
+._Add-view p input{
+margin: 0 5px;
+font-size: 14px;
+}
+

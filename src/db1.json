@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "zozo",
+      "username": "christ",
+      "email": "jesuschrit@gmail.com",
+      "phone": "678959865"
+    },
+    {
+      "id": 2,
+      "name": "jesus",
+      "username": "christ",
+      "email": "jesuschrit@gmail.com",
+      "phone": "678959865"
+    },
+    {
+      "id": 3,
+      "name": "jesus",
+      "username": "christ",
+      "email": "jesuschrit@gmail.com",
+      "phone": "678959865"
+    },
+    {
+      "initilUserInfo": {
+        "name": "",
+        "userName": "",
+        "email": "",
+        "phone": ""
+      },
+      "name": "wakeu borel",
+      "username": "joel borel",
+      "email": "wakeu@gmail.com",
+      "phone": "691411233",
+      "id": 4
+    },
+    {
+      "initilUserInfo": {
+        "name": "",
+        "userName": "",
+        "email": "",
+        "phone": ""
+      },
+      "name": "wakeu borel",
+      "username": "joel borel",
+      "email": "wakeu@gmail.com",
+      "phone": "691411233",
+      "id": 5
+    }
+  ]
+}
